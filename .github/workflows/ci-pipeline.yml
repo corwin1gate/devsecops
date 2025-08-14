@@ -2,8 +2,7 @@
 name: Continuous Integration
 
 # Set pipeline execution criteria.
-on:
-  push
+on: push
 
 # Define all jobs within the pipeline.
 jobs:
